@@ -1,0 +1,33 @@
+https://salesforce.vidyard.com/watch/2JNJ52QtFn8cKWmhoviSxL
+
+https://trailhead.salesforce.com/en/content/learn/modules/cc-digital-for-developers?trail_id=develop-for-commerce-cloud
+
+
+https://amedeloitte.sharepoint.com/sites/SFCC2021Training/Shared%20Documents/General/Jan%202021%20Demandware%20Training%20Recorded%20Sessions/Session%201%20recording.mp4
+
+
+https://macysinc.sharepoint.com/teams/Marketplacedesignphase/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=EcJxJI&OR=Teams%2DHL&CT=1654001708279&params=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMjA1MDEwMTAwOSJ9&cid=c6a71883%2D77d1%2D4052%2D95b0%2Dd185476c3c1e&RootFolder=%2Fteams%2FMarketplacedesignphase%2FShared%20Documents%2FGeneral%2FMirakl%20Testing%2FMirakl%20UI%20Demos&FolderCTID=0x01200056603423AE434F4787D01AFD6ECD1563
+
+
+Letmelogin@1020
+Sandbox..... 
+
+https://zzrd-022.sandbox.us01.dx.commercecloud.salesforce.com/on/demandware.store/Sites-Site
+
+Reasons...
+
+Again just like incident once, it is non modifiable.
+ Refund request is opened by selecting any valid reasons,it generates a Refund_id for that request. 
+Status Refund in Progress
+By calling PA02 we can either Refuse or Accept the refund amount.
+Status Refunded  or Status Refused
+This is non modifiable 
+If by closing the refund either as Refused/Ok  we can generate a new refund request until inventory goes to zero or Full Refund.
+
+
+Day3 
+Click the link below to access recordings of the session – Day 3.
+Click the link below to access recordings of the session – Day 3.
+https://deloitte.zoom.us/rec/share/BaFIas7Y2NyCicTiGR3puaE2p68sndorerwEPAOn3hzcK6eVjKZpOnMFOeEbUFH2.QugpaBIAEZTLONMH (Access Password: mZmy6Rn?)
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
